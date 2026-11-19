@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="380" viewBox="0 0 860 380" font-family="-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<rect width="860" height="380" rx="18" fill="#F7F7FB"/>
+<circle cx="110.0" cy="70" r="15" fill="#4F46E5" stroke="none" stroke-width="1"/>
+<path d="M104.0 70 l4 4 l8 -8" stroke="#fff" stroke-width="2.4" fill="none"/>
+<text x="110.0" y="108" font-size="13" fill="#1C1C28" font-weight="500" text-anchor="middle">Cart</text>
+<line x1="126.0" y1="70" x2="307.33333333333337" y2="70" stroke="#4F46E5" stroke-width="2"/>
+<circle cx="323.33333333333337" cy="70" r="15" fill="#4F46E5" stroke="none" stroke-width="1"/>
+<path d="M317.33333333333337 70 l4 4 l8 -8" stroke="#fff" stroke-width="2.4" fill="none"/>
+<text x="323.33333333333337" y="108" font-size="13" fill="#1C1C28" font-weight="500" text-anchor="middle">Address</text>
+<line x1="339.33333333333337" y1="70" x2="520.6666666666667" y2="70" stroke="#4F46E5" stroke-width="2"/>
+<circle cx="536.6666666666667" cy="70" r="14" fill="#fff" stroke="#4F46E5" stroke-width="2"/>
+<text x="536.6666666666667" y="75" font-size="13" fill="#4F46E5" font-weight="600" text-anchor="middle">3</text>
+<text x="536.6666666666667" y="108" font-size="13" fill="#1C1C28" font-weight="700" text-anchor="middle">Payment</text>
+<line x1="552.6666666666667" y1="70" x2="734.0" y2="70" stroke="#D6D6E0" stroke-width="2"/>
+<circle cx="750.0" cy="70" r="14" fill="#fff" stroke="#D6D6E0" stroke-width="2"/>
+<text x="750.0" y="75" font-size="13" fill="#8A8AA0" font-weight="600" text-anchor="middle">4</text>
+<text x="750.0" y="108" font-size="13" fill="#8A8AA0" font-weight="500" text-anchor="middle">Done</text>
+<circle cx="330" cy="165" r="14" fill="#4F46E5" stroke="none" stroke-width="1"/>
+<path d="M324 165 l4 4 l8 -8" stroke="#fff" stroke-width="2.4" fill="none"/>
+<text x="356" y="164" font-size="14" fill="#1C1C28" font-weight="500" text-anchor="start">Order placed</text>
+<text x="356" y="181" font-size="12" fill="#6B6B80" font-weight="400" text-anchor="start">09:02</text>
+<line x1="330" y1="180" x2="330" y2="202" stroke="#4F46E5" stroke-width="2"/>
+<circle cx="330" cy="217" r="14" fill="#4F46E5" stroke="none" stroke-width="1"/>
+<path d="M324 217 l4 4 l8 -8" stroke="#fff" stroke-width="2.4" fill="none"/>
+<text x="356" y="216" font-size="14" fill="#1C1C28" font-weight="500" text-anchor="start">Picked up</text>
+<text x="356" y="233" font-size="12" fill="#6B6B80" font-weight="400" text-anchor="start">09:20</text>
+<line x1="330" y1="232" x2="330" y2="254" stroke="#4F46E5" stroke-width="2"/>
+<circle cx="330" cy="269" r="13" fill="#fff" stroke="#4F46E5" stroke-width="2"/>
+<text x="330" y="274" font-size="12" fill="#4F46E5" font-weight="600" text-anchor="middle">3</text>
+<text x="356" y="268" font-size="14" fill="#1C1C28" font-weight="700" text-anchor="start">On the way</text>
+<text x="356" y="285" font-size="12" fill="#6B6B80" font-weight="400" text-anchor="start">ETA 10:05</text>
+<line x1="330" y1="284" x2="330" y2="306" stroke="#D6D6E0" stroke-width="2"/>
+<circle cx="330" cy="321" r="13" fill="#fff" stroke="#D6D6E0" stroke-width="2"/>
+<text x="330" y="326" font-size="12" fill="#8A8AA0" font-weight="600" text-anchor="middle">4</text>
+<text x="356" y="320" font-size="14" fill="#8A8AA0" font-weight="500" text-anchor="start">Delivered</text>
+<text x="356" y="337" font-size="12" fill="#6B6B80" font-weight="400" text-anchor="start"></text>
+</svg>

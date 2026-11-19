@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - build/**
+  errors:
+    # Flutter 3.47 moved Material to package:material_ui. We keep
+    # package:flutter/material.dart so older Flutter versions still work.
+    deprecated_member_use: ignore
+
+linter:
+  rules:
+    - public_member_api_docs
+    - prefer_single_quotes
+    - always_declare_return_types

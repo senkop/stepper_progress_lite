@@ -1,0 +1,25 @@
+name: stepper_progress_lite
+description: "A clean horizontal or vertical step progress indicator for Flutter checkouts, onboarding and order tracking, with labels, checkmarks and tappable steps."
+version: 0.1.0
+homepage: https://github.com/senkop/stepper_progress_lite
+repository: https://github.com/senkop/stepper_progress_lite
+issue_tracker: https://github.com/senkop/stepper_progress_lite/issues
+topics:
+  - stepper
+  - progress
+  - steps
+  - tracking
+  - widget
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
